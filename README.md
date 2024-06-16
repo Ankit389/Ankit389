@@ -1,4 +1,4 @@
-![logo](https://media.licdn.com/dms/image/D5616AQGKBNMxmYjTlQ/profile-displaybackgroundimage-shrink_350_1400/0/1713506290526?e=1718841600&v=beta&t=2f53apDiwYklthCkk53_VKZajiVlOljqzpUkYultZX4)
+![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fvideoplasty.com%2Fstock-animation%2Fchill-coding-programming-lofi-animation-11018&psig=AOvVaw2fuIwuHSvdeWxjWsdCq_sD&ust=1718629493233000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOiWiPSX4IYDFQAAAAAdAAAAABAK)
 
 
 
