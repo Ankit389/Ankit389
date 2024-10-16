@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Ankit pankaj</h1>
-<h3 align="center">I'm fullstackweb development from india</h3>
+<h3 align="center">I'm Fullstackweb Development From India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit389&label=Profile%20views&color=0e75b6&style=flat" alt="ankit389" /> </p>
 
